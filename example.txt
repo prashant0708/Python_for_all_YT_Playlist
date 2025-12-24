@@ -1,0 +1,9 @@
+This is first line.
+This is second line.
+This is third line.
+Artificial Intelligence (AI) is the ability of computer systems to perform tasks that 
+typically need human intelligence, like learning, reasoning, problem-solving, understanding language,
+and recognizing patterns, by analyzing data to make decisions and predictions, 
+enabling automation and smart applications from virtual assistants to self-driving cars. 
+It's a branch of computer science that creates algorithms to simulate these cognitive functions,
+allowing machines to adapt and improve over time without explicit programming for every scenario.
