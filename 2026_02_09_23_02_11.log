@@ -1,0 +1,2 @@
+2026-02-09 23:32:11,115 - level name: INFO  - file_name: test.py - line_no: 5 - Message: received paramater a and b
+2026-02-09 23:32:11,115 - level name: WARNING  - file_name: test.py - line_no: 7 - Message: passed b parameter is smaller than a so divison can't be possible
